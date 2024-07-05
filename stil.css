@@ -1,0 +1,45 @@
+body{
+  margin: 0px;
+}
+.navbar ul{
+  list-style-type: none;
+  background-color: rgb(235, 166, 166);
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+
+}
+.navbar a{
+  color: black;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+.navbar a:hover{
+  background-color: rgb(49, 48, 48);
+  color: bisque;
+}
+.navbar li{
+  float: left;
+}
+#ana{
+  width: 90%; height: auto;
+  margin-left: 5%; margin-right: 5%;
+  background-color: antiquewhite;
+  border-radius: 20px;
+}
+#baş{
+  font-size: 30px;
+  margin-left: 45%;
+}
+#Giriş{
+  padding: 20px;
+  color: rgb(59, 27, 27);
+  font-size: larger;
+}
+#açıklama{
+  padding: 20px;
+  color: rgb(28, 61, 162);
+  font-size: larger;
+}
